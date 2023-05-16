@@ -1,0 +1,57 @@
+.weather-container {
+  background-color: #f5f5f5;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.weather-icon {
+  font-size: 100px;
+  color: #f39c12;
+  margin-bottom: 20px;
+}
+
+.location {
+  font-size: 28px;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.temperature {
+  font-size: 48px;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+#description {
+  color: #666;
+  margin-bottom: 20px;
+}
+
+.additional-info li {
+  color: #333;
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.form-group {
+  margin-bottom: 10px;
+}
+
+#location {
+  width: 100%;
+}
+
+button {
+  background-color: #2980b9;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #1c689f;
+}
