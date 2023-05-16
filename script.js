@@ -13,6 +13,7 @@ async  function getLatLon() {
         });
 }
 
+
 async function getWeather() {
     await getLatLon();
     let location = document.getElementById('location').value;
